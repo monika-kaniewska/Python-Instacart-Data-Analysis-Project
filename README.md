@@ -38,5 +38,5 @@ This project uses various open-source Instacart datasets with detailed informati
 * 03 Scripts - contains Python code executed in Jupyter Notebooks
   * ***Important: Task 4.10 is the final task in this project. Please refer to it for the most up-to-date work***
 * 04 Analysis - contains the 'Visualizations' subfolder with visualizations used in this project
-* 05 Sent to Client - contains the final Excel presentation.
+* 05 Sent to Client - contains the final Excel presentation
 
